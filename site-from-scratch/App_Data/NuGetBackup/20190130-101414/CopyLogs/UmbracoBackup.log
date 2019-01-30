@@ -1,0 +1,26 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, January 30, 2019 10:14:15 AM
+   Source : C:\Support\V8\site-from-scratch\site-from-scratch\Umbraco\
+     Dest : C:\Support\V8\site-from-scratch\site-from-scratch\App_Data\NuGetBackup\20190130-101414\Umbraco\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Support\V8\site-from-scratch\site-from-scratch\Umbraco\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Wednesday, January 30, 2019 10:14:15 AM
+

@@ -1,0 +1,64 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, January 30, 2019 10:14:15 AM
+   Source : C:\Support\V8\site-from-scratch\site-from-scratch\Config\
+     Dest : C:\Support\V8\site-from-scratch\site-from-scratch\App_Data\NuGetBackup\20190130-101414\Config\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   9	C:\Support\V8\site-from-scratch\site-from-scratch\Config\
+	    New File  		    3978	ClientDependency.config  0%  100%  
+	    New File  		    8073	EmbeddedMedia.config  0%  100%  
+	    New File  		    1167	grid.editors.config.js  0%  100%  
+	    New File  		    1113	HealthChecks.config  0%  100%  
+	    New File  		    1535	logviewer.searches.config.js  0%  100%  
+	    New File  		     594	serilog.config  0%  100%  
+	    New File  		    2011	serilog.user.config  0%  100%  
+	    New File  		    5044	tinyMceConfig.config  0%  100%  
+	    New File  		   12503	umbracoSettings.config  0%  100%  
+	  New Dir          1	C:\Support\V8\site-from-scratch\site-from-scratch\Config\BackOfficeTours\
+	    New File  		   26898	getting-started.json  0%  100%  
+	  New Dir          3	C:\Support\V8\site-from-scratch\site-from-scratch\Config\imageprocessor\
+	    New File  		     382	cache.config  0%  100%  
+	    New File  		    4316	processing.config  0%  100%  
+	    New File  		    1064	security.config  0%  100%  
+	  New Dir         18	C:\Support\V8\site-from-scratch\site-from-scratch\Config\Lang\
+	    New File  		      83	cs-CZ.user.xml  0%  100%  
+	    New File  		      82	da-DK.user.xml  0%  100%  
+	    New File  		      82	de-DE.user.xml  0%  100%  
+	    New File  		      82	en-GB.user.xml  0%  100%  
+	    New File  		      82	en-US.user.xml  0%  100%  
+	    New File  		      82	es-ES.user.xml  0%  100%  
+	    New File  		      82	fr-FR.user.xml  0%  100%  
+	    New File  		      85	he-IL.user.xml  0%  100%  
+	    New File  		      85	it-IT.user.xml  0%  100%  
+	    New File  		      82	ja-JP.user.xml  0%  100%  
+	    New File  		      85	ko-KR.user.xml  0%  100%  
+	    New File  		      85	nb-NO.user.xml  0%  100%  
+	    New File  		      82	nl-NL.user.xml  0%  100%  
+	    New File  		      85	pl-PL.user.xml  0%  100%  
+	    New File  		      85	pt-BR.user.xml  0%  100%  
+	    New File  		      82	ru-RU.user.xml  0%  100%  
+	    New File  		      85	sv-SE.user.xml  0%  100%  
+	    New File  		      80	zh-CN.user.xml  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         3         1         0         0         0
+   Files :        31        31         0         0         0         0
+   Bytes :    68.5 k    68.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              494183 Bytes/sec.
+   Speed :              28.277 MegaBytes/min.
+   Ended : Wednesday, January 30, 2019 10:14:15 AM
+
